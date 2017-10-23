@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+input {
+    border: 4px grey;
+    border-radius: 4px;
+}
+
+.titulo {
+  text-align:center;
+}
+
+.imgt1 {
+  height: 250px;
+}
